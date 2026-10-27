@@ -12,6 +12,8 @@ ressource graphique distante, mesure d’audience ou formulaire serveur.
 - `boutique.html` : avancement des briques (nom de fichier historique conservé).
 - `pro.html` : présentation du prototype et des usages des indépendants.
 - `contact.html` : email public et suivi GitHub.
+- `confidentialite.html` : politique de confidentialité du site et de Sowilo Réseaux.
+- `suppression-donnees.html` : retrait des accès Meta, suppression locale et demandes par email.
 - `404.html`, `robots.txt`, `.nojekyll` : fichiers pour l’hébergement statique.
 
 Le dépôt Community est public sur https://github.com/sowiloprojectcontact/sowilo-community.
